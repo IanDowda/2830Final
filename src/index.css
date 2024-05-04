@@ -1,0 +1,15 @@
+
+.App {
+    text-align: center;
+}
+
+
+.section-grid{
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+}
+
+.Login{
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+}
